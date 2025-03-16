@@ -5,6 +5,8 @@ public class Test {
 		// TODO Auto-generated method stub
 		
 		System.out.println("Test class - First  comment ");
+		System.out.println("Test class - last  comment ");
+		
 	}
 
 }
